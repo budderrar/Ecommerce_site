@@ -19,6 +19,7 @@ This is an Ecommerce website i developed as my final project for my frontend tra
 - **sleek smooth design with tailwindCSS
 
 
+
 **Installation**
 
 Install the project dependencies using npm:
